@@ -17,7 +17,7 @@ class Stack:
     def size(self):
         return len(self.items)
         
-#判断括号是否匹配
+#判断括号是否匹配yeh
 def match(open,close):
     opens = "([{"
     closers = ")]}"
