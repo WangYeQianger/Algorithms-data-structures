@@ -17,8 +17,7 @@ class Node:
     def setNext(self,newnext):
         self.next = newnext
         
-        
-        
+       
 #无序表
 class UnorderedList:
     def __init__(self):
