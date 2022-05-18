@@ -21,7 +21,6 @@ class Deque:
     def size(self):
         return len(self.items)
 
-
 #判断回文字符串
 
 def palchecker(aString):
