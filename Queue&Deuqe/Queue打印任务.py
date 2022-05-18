@@ -14,6 +14,7 @@ class Queue:                   #队首在list最后，队尾在list最前
     def size(self):
         return len(self.items)
 
+    
 #打印任务
 import random
 
