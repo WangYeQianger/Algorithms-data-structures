@@ -1,5 +1,6 @@
 #链表的实现：
 #节点Node     #可以理解为节点是地址，节点.getData是所存数据
+
 class Node:
     def __init__(self,initdata):
         self.data = initdata    #initdata 为节点信息
