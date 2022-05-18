@@ -14,7 +14,6 @@ class Queue:                   #队首在list最后，队尾在list最前
     def size(self):
         return len(self.items)
 
-
 #热土豆问题（约瑟夫问题）：一堆人坐一圈，报数1-7，报到7的被死
 def hotPotato(namelist,num):   #num 为传递次数
     simqueue = Queue()
